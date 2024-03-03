@@ -1,4 +1,4 @@
-Teorija (Laravel README.md failā):
+Teorija (Laravel README.md failā):  
     • Kas ir API?  API ir komunikācija starp klientu un serveri
     • Kā deklarēt mainīgo PHP valodā? $variableName
     • Kādu arhitektūru izmanto Laravel, paskaidro kā tā strādā: 
